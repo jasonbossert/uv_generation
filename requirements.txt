@@ -5,9 +5,9 @@ appnope=0.1.0=py38_0
 attrs=19.3.0=py_0
 backcall=0.1.0=py38_0
 blas=1.0=mkl
-bleach=3.1.0=py_0
-ca-certificates=2020.1.1=0
-certifi=2019.11.28=py38_1
+bleach=3.1.4=pyh9f0ad1d_0
+ca-certificates=2019.11.28=hecc5488_0
+certifi=2019.11.28=py38h32f6830_1
 cycler=0.10.0=py38_0
 dbus=1.13.12=h90a0687_0
 decorator=4.4.2=py_0
@@ -55,7 +55,7 @@ ncurses=6.2=h0a44026_0
 notebook=6.0.3=py38_0
 numpy=1.18.1=py38h7241aed_0
 numpy-base=1.18.1=py38h6575580_1
-openssl=1.1.1f=h1de35cc_0
+openssl=1.1.1f=h0b31af3_0
 pandas=1.0.3=py38h6c726b0_0
 pandoc=2.2.3.2=0
 pandocfilters=1.4.2=py38_1
@@ -76,6 +76,7 @@ pyqt=5.9.2=py38h655552a_2
 pyrsistent=0.16.0=py38h1de35cc_0
 python=3.8.2=hc70fcce_0
 python-dateutil=2.8.1=py_0
+python_abi=3.8=1_cp38
 pytz=2019.3=py_0
 pyzmq=18.1.1=py38h0a44026_0
 qt=5.9.7=h468cd18_1
